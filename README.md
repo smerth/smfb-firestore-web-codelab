@@ -2,6 +2,11 @@
 
 This is the completed project from the google codelab: [Firestore Web](https://codelabs.developers.google.com/codelabs/firestore-web/#0).  
 
+
+![App Screenshot](https://raw.githubusercontent.com/smerth/smfb-firestore-web-codelab/master/screenshot.png)
+
+
+
 ## Overview
 
 In this codelab you will build a Firestore-backed restaurant recommendation Web app (Friendlyeats-Web app). You will learn how to:
